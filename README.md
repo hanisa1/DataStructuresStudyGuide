@@ -1,4 +1,4 @@
-# **Data Structures in Python: A Study Guide ⚙️📗**  
+# **Data Structures in Python: A Study Guide ⚙️**  
 *A Study Guide on Data Structures with Python Implementations*  
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=github)](https://github.com/hanisa1/DataStructuresStudyGuide)  
